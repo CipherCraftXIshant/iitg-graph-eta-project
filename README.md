@@ -1,6 +1,6 @@
 # Delivery Network Graph Analysis
 
-A comprehensive graph-based network analysis system for identifying bottleneck hubs, analyzing corridor performance, predicting ETAs, and optimizing logistics operations at Delhivery, India's leading logistics and supply chain services company.
+A comprehensive graph-based network analysis system for identifying bottleneck hubs, analyzing corridor performance, predicting ETAs, and optimizing logistics operations at Delhivery, India's leading logistics and supply chain service company.
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org/)
